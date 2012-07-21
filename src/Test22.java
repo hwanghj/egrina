@@ -8,5 +8,4 @@
 public class Test22 {
     private class tess{
     }
-    }
-}
+    }                               }
